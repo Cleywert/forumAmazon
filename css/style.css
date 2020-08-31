@@ -1,0 +1,44 @@
+/* ESTILOS GERAIS */
+body{
+	background-color: #eceff1;
+}
+main{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.titulo{
+	margin-top: 30px;
+}
+
+/* ESTILO PÁGINA PRINCIPAL */
+.cont-perguntas .card{
+	margin-bottom: 20px;
+}
+.cont-pergunta .card{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.btn-responder{
+	color: #FFF;
+	border-color: #1b5e20;
+	background-color: #1b5e20;
+}
+.btn-responder:hover{
+	border-color: #27732d;
+	background-color: #27732d;
+}
+
+/* ESTILO PÁGINA DE RESPOSTAS */
+.cont-respostas .card{
+	margin-top: 30px;
+}
+.titulo-pergunta{
+	font-size: 1.5em;
+}
+.desc-pergunta{
+	font-size: 1.5em
+}
+.data-resposta{
+	color: #C3C3C3;
+	margin-top: 30px;
+}
